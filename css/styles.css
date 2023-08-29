@@ -976,8 +976,7 @@ p {
   letter-spacing: 0.04em;
 }
 
-.input-svg-container,
-.modal-svg-container {
+.input-svg-container {
   position: relative;
 }
 
