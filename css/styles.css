@@ -962,7 +962,7 @@ p {
   padding: 0;
 }
 
-.form-inputs {
+.label-container{
   margin-bottom: 8px;
 }
 
@@ -976,7 +976,8 @@ p {
   letter-spacing: 0.04em;
 }
 
-.input-svg-container {
+.input-svg-container,
+.modal-svg-container {
   position: relative;
 }
 
