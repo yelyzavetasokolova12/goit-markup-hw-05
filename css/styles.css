@@ -984,9 +984,9 @@ p {
   position: relative;
 } 
 
-/* .comment-container {
+.comment-container {
   margin-bottom: 16px;
-} */
+} 
 
 
 .input-field {
@@ -1052,7 +1052,8 @@ p {
   fill: transparent;
 }
 
-.input[type='checkbox']:checked + .accept-text > .accept-span {
+/* .accept-text > */
+.input[type='checkbox']:checked +  .accept-span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
