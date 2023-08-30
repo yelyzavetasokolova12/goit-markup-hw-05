@@ -1053,7 +1053,7 @@ p {
 }
 
 
-.input[type='checkbox']:checked + .accept-text > .accept-span {
+.checkbox-btn:checked +.accept-text >.accept-span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
